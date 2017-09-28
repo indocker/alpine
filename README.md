@@ -28,3 +28,6 @@ RUN apt-get update \
 ENTRYPOINT ["mysql"]
 ```
 This yields us a virtual image size of about 184MB image.
+
+ref:
+https://bitbucket.org/yobasystems/alpine
